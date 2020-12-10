@@ -1,0 +1,92 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calbri,sans-serif;
+    font-size: 16px;
+    background-color: gray;
+
+}
+
+img{
+    width: auto;
+    height: 250px;
+}
+
+.page{
+   
+    width: 780px;
+    margin: auto;
+    border: 5px solid #3388CC;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px black;
+    padding: 20px;
+    background-color: white;
+}
+
+.infophoto{
+    
+    height: 250px;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+  
+}
+
+.section:hover{
+    color: #3388CC;
+    
+}
+.partie-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+.partie-droite{
+    margin-left: 300px;
+    
+}
+
+h2{
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388DD;
+    
+}
+
+#formation-gauche p{
+    margin-bottom: 30px;
+    
+}
+
+#experience-gauche p{
+    margin-bottom: 10px;
+    
+}
+
+#langue-droite p{
+    margin-top: 5px;
+    
+}
+
+strong{
+    font-size: 22px;
+    
+}
+
